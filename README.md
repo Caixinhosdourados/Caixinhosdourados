@@ -1,7 +1,7 @@
-## Sobre mim
+# Sobre mim 👍
 
 - 👋 Olá, eu sou a @Caixinhosdourados
-- 👀 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Eu estou interessada em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem do JavaScript e Scratch
+- 💞️ estou procurando melhorar a cada dia 
+- 📫 Meu emailde contato é Caixinhosdourados2551@gmail.com
